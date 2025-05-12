@@ -1,7 +1,7 @@
 //Part A
 public int walkDogs(int hour){
     //establish amount of dogs available at DogWalkCompany
-    int numDogs = company.numAvaialableDogs();
+    int numDogs = company.numAvaialableDogs(hour);
 
     // if walker can walk more dogs than available
     if(maxDogs > numDOgs){
