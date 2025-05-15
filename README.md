@@ -1,17 +1,34 @@
-## Question 1 Analysis
-### Dog Walker
+# AP-FRQs-2025
 
-This section contains my analysis of Question 1 (Methods and Control Structures):
+*Solutions written by Kelvin Baez*
 
-#### My initial approach during the exam:
-- The 5 pages of details were daunting. I split each page into different sections to understand what each section was informing me about. Then I excluded less important info and kept the essential details which would help me understand and solve the problem.
-  
-#### My revised solution after review:
-- I understood the question in much better detail when we reviewed it in class. This allowed me to understand what methods from each class should be implemented where.
-  
-#### Key concepts tested in this question:
-  - class method definition
-  - boolean expressions
-  
-#### What I learned from revisiting this problem:
-- I need to be much more careful when dealing with methods from seperate classes
+## Introduction
+This repository contains my solutions and reflections for the AP Computer Science exam taken on [Date]. While reviewing the released questions, I've documented my approach, insights gained, and areas for future growth.
+
+## Exam Experience
+In this section, I reflect on my overall experience taking the AP Computer Science exam:
+
+- My preparation strategy for the exam included...
+- The most challenging aspects of the exam were...
+- Time management techniques that worked well for me...
+- Mental strategies I used when encountering difficult questions...
+
+## Growth Opportunities
+Through this review process, I've identified these areas for continued learning:
+
+- Topic/Concept 1: [Brief description of what to improve]
+- Topic/Concept 2: [Brief description of what to improve]
+- Programming practice: [Specific practice goals]
+
+## Resources
+Resources I found helpful during my exam preparation and review:
+
+- [Resource name and link]
+- [Resource name and link]
+- [Resource name and link]
+
+## Future Goals
+Moving forward, I plan to:
+- [Specific goal related to computer science learning]
+- [Project idea inspired by the exam content]
+- [Study strategy for future computer science courses]
